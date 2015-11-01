@@ -1,9 +1,9 @@
 [
   {
   "remote": "github",
-  "repository": "CM-zenfone2/android_device_asus_mofd-common",
+  "repository": "TeamBliss-Devices/android_device_asus_mofd-common",
   "target_path": "device/asus/mofd-common",
-  "revision": "cm-12.1"
+  "revision": "lp5.1"
   },
   {
   "remote": "github",
