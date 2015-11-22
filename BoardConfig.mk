@@ -26,7 +26,7 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 12478019584
 -include vendor/asus/Z008/BoardConfigVendor.mk
 
 # BlissPop Configs
-TARGET_TC_ROM := 4.8
+TARGET_TC_ROM := 4.9
 TARGET_TC_KERNEL := 4.9
 BLISSIFY := true
 BLISS_O3 := false
